@@ -1,0 +1,19 @@
+{
+  "name": "cordova-plugin-appstoreinfo",
+  "version": "1.0.0",
+  "description": "Cordova Plugin for Android and iOS to retrieve version code",
+  "cordova": {
+    "id": "cordova-plugin-appstoreinfo",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "hubconnect",
+  "license": "ISC"
+}
